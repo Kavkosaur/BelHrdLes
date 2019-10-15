@@ -8,9 +8,9 @@ public class Les2 {
             byte b = a;
             a += i;
             if (b < a) {
-                System.out.println("Let's see:" + a);
+                System.out.println("Hmmmm.... Let's see:" + a);
             } else {
-                System.out.println("Oh,shield, an overload >_< :" + a);
+                System.out.println("Ohhhhh ,shield, an overload >_< :" + a);
             }
 
         }

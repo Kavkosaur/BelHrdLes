@@ -49,7 +49,7 @@ public class FuelSystem {
 
         if (value <= 0 ) throw new InvalidFuelParameterException("Да ты стебешь? Как мы сожжем тебе 0 или наколдуем топлива");
 
-        if (value )
+
 
     }
 }
